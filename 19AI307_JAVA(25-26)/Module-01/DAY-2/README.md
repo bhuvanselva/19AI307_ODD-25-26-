@@ -2,7 +2,6 @@
 
 ## QUESTION:
 In a haunted house, lights turn on or off based on the hour of entry:
-
 If the hour is even and between 2 and 6 (inclusive), lights flicker.
 
 If the hour is odd and between 7 and 11, lights stay off.
@@ -69,8 +68,10 @@ public class Demo
 ```
 ## OUTPUT:
 <img width="486" height="294" alt="image" src="https://github.com/user-attachments/assets/7ae20edf-cbff-471f-87c9-59a3f34eef20" />
+
 ## RESULT:
 Thus, the Java program to implement conditional statements for the haunted house lighting system was successfully executed.
+
 
 
 
