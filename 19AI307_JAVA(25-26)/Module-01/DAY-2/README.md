@@ -12,7 +12,6 @@ If the hour is 12, lights turn red.
 Otherwise, the house is dark.
 
 ## AIM:
-
 To write a Java program that uses conditional statements to determine the state of lights in a haunted house based on the hour of entry.
 
 ## ALGORITHM :
@@ -40,14 +39,13 @@ Display “The house is dark”.
 
 End the program.
 ## PROGRAM:
- ```
+```
 /*
 Program to implement a conditional statement using Java
 Developed by: Bhuvaneshwari S
 RegisterNumber: 212222220008
 */
 ```
-
 ## SOURCE CODE:
 ```
 import java.util.*;
@@ -71,9 +69,9 @@ public class Demo
 ```
 ## OUTPUT:
 <img width="486" height="294" alt="image" src="https://github.com/user-attachments/assets/7ae20edf-cbff-471f-87c9-59a3f34eef20" />
-
 ## RESULT:
 Thus, the Java program to implement conditional statements for the haunted house lighting system was successfully executed.
+
 
 
 
