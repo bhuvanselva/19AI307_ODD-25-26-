@@ -15,15 +15,20 @@ To write a Java program that demonstrates the use of variables, data types, oper
 ## ALGORITHM :
 
 1.Start the program.
+
 2.Import the required package java.util.* (optional).
+
 3.Declare variables of different data types (int, float, char, String).
+
 4.Perform simple arithmetic operations using operators.
+
 5.Use System.out.print() to display output on the same line.
+
 6.Use System.out.println() to display output on the next line.
+
 7.Use System.out.printf() to print formatted output.
+
 8.End the program.
-
-
 
 ## PROGRAM:
  ```
@@ -52,9 +57,6 @@ public class Main
 }
 
 ```
-
-
-
 ## OUTPUT:
 
 <img width="766" height="385" alt="image" src="https://github.com/user-attachments/assets/82875602-754c-4aae-9452-0a5f2da07b3e" />
@@ -62,3 +64,4 @@ public class Main
 
 ## RESULT:
 Thus, the Java program demonstrating variables, data types, operators, and print statements was successfully executed.
+
