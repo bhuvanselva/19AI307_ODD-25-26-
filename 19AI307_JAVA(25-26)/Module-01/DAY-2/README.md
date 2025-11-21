@@ -1,6 +1,7 @@
 # Ex.No:1(B) CONDITIONAL STATEMENT
 
 ## QUESTION:
+
 In a haunted house, lights turn on or off based on the hour of entry:
 
 If the hour is even and between 2 and 6 (inclusive), lights flicker.
@@ -15,6 +16,7 @@ Otherwise, the house is dark.
 To write a Java program that uses conditional statements to determine the state of lights in a haunted house based on the hour of entry.
 
 ## ALGORITHM :
+
 Start the program.
 
 Import the necessary package java.util.*.
@@ -76,4 +78,5 @@ public class Demo
 
 ## RESULT:
 Thus, the Java program to implement conditional statements for the haunted house lighting system was successfully executed.
+
 
