@@ -35,8 +35,8 @@ ArcadeGame and PuzzleGame, each implementing its own scoring logic.
  ```
 /*
 Program to implement a Abstraction using Java
-Developed by: 
-RegisterNumber:  
+Developed by: Bhuvaneshwari S
+RegisterNumber: 212222220008
 */
 ```
 
@@ -102,3 +102,4 @@ public class Main {
 
 ## RESULT:
 The program successfully calculates and displays the final score based on game type and user input using abstract methods and dynamic method dispatch.
+
