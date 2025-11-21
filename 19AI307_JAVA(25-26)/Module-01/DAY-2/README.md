@@ -45,8 +45,8 @@ End the program.
  ```
 /*
 Program to implement a conditional statement using Java
-Developed by: 
-RegisterNumber:  
+Developed by: Bhuvaneshwari S
+RegisterNumber: 212222220008
 */
 ```
 
@@ -76,3 +76,4 @@ public class Demo
 
 ## RESULT:
 Thus, the Java program to implement conditional statements for the haunted house lighting system was successfully executed.
+
