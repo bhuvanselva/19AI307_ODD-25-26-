@@ -10,9 +10,12 @@ To implement the Observer design pattern where MatchItServer notifies only those
 
 ## ALGORITHM :
 Create a User class that implements an Observer interface; store name and preference and implement an update(newUserName, type) method that prints the custom message.
+
 Create MatchItServer as the Subject with methods to register(User), remove(User) and notify(type, newUserName). Maintain a list of registered users.
 Read n and register n users (store each user’s preference).
+
 Read m. For each signup (newUserName, type): print the "New User Joined..." line.
+
 Call notify(type, newUserName) — iterate over registered users and for each user whose preference.equals(type) call update(...).
 End program.
 
@@ -105,3 +108,4 @@ public class prog {
 
 ## RESULT:
 The program executes successfully. For every new signup, the server announces the new user and then notifies only those users whose saved preference matches the signup’s type. Each notified user prints the expected personalized message. Non-matching users do not receive notifications.
+
